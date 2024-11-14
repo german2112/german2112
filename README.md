@@ -23,11 +23,11 @@ https://germantmolina.com/
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://thumbs.dreamstime.com/b/print-326771771.jpg" />][web]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" />][upwork]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ84if7BMbT-8JtD4pYfBYljrGpxi3OfLMcVA&s" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
+[web]: https://germantmolina.com/contact
 [upwork]: https://www.upwork.com/freelancers/~0161612a0f53a793eb?mp_source=share
 [linkedin]: https://linkedin.com/in/joshmadakor
 
