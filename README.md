@@ -1,4 +1,4 @@
-<h1>Hi, I'm German! <br/><a href="https://github.com/german2112">Programmer</a>, <a href="[https://www.linkedin.com/in/german-torres-molina-a76b58176/]">Sr Software Engineer</a>, <a href="[https://www.upwork.com/freelancers/~0161612a0f53a793eb?mp_source=share]">Freelancer</a></h1>
+<h1>Hi, I'm German! <br/><a href="https://github.com/german2112">Programmer</a>, <a href="https://www.linkedin.com/in/german-torres-molina-a76b58176/">Sr Software Engineer</a>, <a href="https://www.upwork.com/freelancers/~0161612a0f53a793eb?mp_source=share">Freelancer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
